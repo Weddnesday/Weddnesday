@@ -1,6 +1,13 @@
-##Hi
+#About me 
+---
 
-WEDnesday here 
+Hi i'm Pratham Bhanot , 
 
-Im here to be.?
-Im here to be,.
+I'm learning all things cloud.
+
+---
+
+## Connect with me 
+
+- [Linkd-in]()
+- [Twitter]()
